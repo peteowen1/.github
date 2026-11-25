@@ -16,6 +16,9 @@ Please include:
 - what an attacker could do with it
 - the steps to reproduce it
 
+If the repository is a fork, report the problem to the original project instead. Forks
+here don't have **Report a vulnerability** turned on.
+
 ## Scope
 
 In scope: code in these repositories, their GitHub Actions workflows, and any secret
